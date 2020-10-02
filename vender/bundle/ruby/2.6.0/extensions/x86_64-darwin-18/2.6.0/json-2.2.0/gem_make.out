@@ -1,0 +1,13 @@
+current directory: /Users/syusei/sample_app_for_rspec/vender/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+/Users/syusei/.rbenv/versions/2.6.4/bin/ruby -I /Users/syusei/.rbenv/versions/2.6.4/lib/ruby/site_ruby/2.6.0 -r ./siteconf20201002-23443-aox2uq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/syusei/sample_app_for_rspec/vender/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/syusei/sample_app_for_rspec/vender/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/syusei/sample_app_for_rspec/vender/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
